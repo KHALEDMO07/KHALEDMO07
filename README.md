@@ -17,12 +17,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Full-Stack .NET Engineer with a strong foundation in **Clean Architecture**, **SOLID principles**, and **Design Patterns**
-- 🧩 Solved **4000+** algorithmic & competitive programming problems — Top 5% on Codeforces (Egypt)
+- 👨‍💻 Full-Stack .NET Engineer with a strong foundation in Computer Science
+- 🎓Graduated From The Faculty Of Science Information Technology Department
 - 🏫 Currently pursuing a 9-month Professional Diploma at **ITI** (Bi-Infused CRM Track)
+- 🧩 Solved **4000+** algorithmic & competitive programming problems — Top 5% on Codeforces (Egypt)
 - 🩺 Built real-world systems across e-commerce, fitness tracking, and healthcare domains
 - 🌱 Exploring AI Integration, RAG, and Prompt Engineering
-- 📫 Reach me at **khaledmohammedoosh@gmail.com**
+
 
 ---
 
@@ -81,14 +82,6 @@
 ![CQRS](https://img.shields.io/badge/CQRS-2C2C2C?style=flat-square)
 ![Vertical Slice Architecture](https://img.shields.io/badge/Vertical%20Slice%20Architecture-2C2C2C?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2C2C2C?style=flat-square)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KHALEDMO07&show_icons=true&theme=default&hide_border=true" width="48%" />
-</p>
 
 ---
 
