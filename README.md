@@ -88,11 +88,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KHALEDMO07&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDMO07&layout=compact&hide_border=true" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KHALEDMO07&hide_border=true" width="60%" />
 </p>
 
 ---
